@@ -17,8 +17,12 @@ export default function Hero() {
             </h1>
             <p className="mt-6 mb-6 text-lg sm:mb-8 p-7 border rounded-md">
               <span className="text-xl font-bold text-violet-600">Front-End Developer</span><br />
-              I create user friendly fully responsive website as per customer requirements.
+              ---I create user friendly fully responsive website as per customer requirements. <br />
+              ---I want to be a Full Stack Web Developer. <br />
+              ---I have Graduated from BSc. in CSE.
             </p>
+            <p></p>
+            <p></p>
             <div className="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start">
               <a
                 rel="noopener noreferrer"

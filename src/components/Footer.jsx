@@ -5,9 +5,10 @@ export default function Footer() {
       <p className="text-center p-2">@all rights reserve,2024</p>
         <div className="container flex flex-col p-4 mx-auto md:p-8 lg:flex-row dark:divide-gray-600">
           <ul className="self-center py-6 space-y-4 text-center sm:flex sm:space-y-0 sm:justify-around sm:space-x-4 lg:flex-1 lg:justify-start">
-            <li>About</li>
-            <li>Contact</li>
-            <li>Blog</li>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+            <a href="#skill">Skills</a>
+            <a href="#">Blog</a>
           </ul>
           <div className="flex flex-col justify-center pt-6 lg:pt-0">
             <div className="flex justify-center space-x-4">

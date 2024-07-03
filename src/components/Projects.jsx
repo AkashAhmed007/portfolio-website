@@ -28,7 +28,7 @@ export default function Projects() {
         <div className="shadow-xl m-2">
           <figure>
             <img
-            className="hover:scale-125 hover:transition delay-200 duration-500 ease-in-out transform-gpu translate-x-4"
+            className="hover:scale-75 hover:transition delay-200 duration-500 ease-in-out transform-gpu translate-x-4"
               src="Media.PNG"
             />
           </figure>
@@ -50,7 +50,7 @@ export default function Projects() {
         <div className="shadow-xl m-2">
           <figure>
             <img
-            className="hover:scale-125 hover:transition delay-200 duration-500 ease-in-out transform-gpu translate-x-4"
+            className="hover:scale-75 hover:transition delay-200 duration-500 ease-in-out transform-gpu translate-x-4"
               src="employee.PNG"
             />
           </figure>
@@ -72,7 +72,7 @@ export default function Projects() {
         <div className="shadow-xl m-2">
           <figure>
             <img
-            className="hover:scale-125 hover:transition delay-200 duration-500 ease-in-out transform-gpu translate-x-4"
+            className="hover:scale-75 hover:transition delay-200 duration-500 ease-in-out transform-gpu translate-x-4"
               src="book.PNG"
             />
           </figure>
